@@ -11,6 +11,7 @@ There are some problems that make this site not good enough :
 
 	When we choose ‘Send Pet’ on ‘Feature Menu’, this site will show :
 
+![prob-1](https://user-images.githubusercontent.com/33054425/52734044-cc721680-2ff6-11e9-8e4f-f8efbea47a8f.jpg)
 
 
 But, if we choose menu ‘Send Pet’ after we buy pet (at buy pet page) it will show :
