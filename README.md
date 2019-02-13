@@ -5,4 +5,4 @@
 <br>
 
 > Click Here
-https://intip.in/aWyc
+https://intip.in/Xc0d
